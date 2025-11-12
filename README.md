@@ -64,7 +64,7 @@ Sistema de Eventos Marzo 2025/
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/sistema-eventos.git
+   git clone https://github.com/MatiOreiro/SistemaGestionEventos.git
    ```
 
 2. **Abrir en NetBeans**
@@ -118,7 +118,6 @@ Click derecho en el proyecto → Test
 ### 👨‍🎓 Autor
 
 **Matías Oreiro**
-- Cédula: 239479
 - Universidad: ORT Uruguay
 - Carrera: Analista en Tecnologías de la Información
 - Docente: Sebastián Pesce
@@ -177,7 +176,7 @@ Sistema de Eventos Marzo 2025/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/event-system.git
+   git clone https://github.com/MatiOreiro/SistemaGestionEventos.git
    ```
 
 2. **Open in NetBeans**
@@ -231,7 +230,6 @@ Right-click on project → Test
 ### 👨‍🎓 Author
 
 **Matías Oreiro**
-- Student ID: 239479
 - University: ORT Uruguay
 - Program: Information Technology Analyst
 - Professor: Sebastián Pesce
@@ -247,6 +245,6 @@ This project was developed for academic purposes at Universidad ORT Uruguay.
 
 **⭐ If you found this project useful, consider giving it a star!**
 
-Made with ❤️ by [Matías Oreiro](https://github.com/tu-usuario)
+Made with ❤️ by [Matías Oreiro](https://github.com/MatiOreiro)
 
 </div>
